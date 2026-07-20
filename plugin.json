@@ -1,0 +1,6 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "camofox",
+  "version": "0.1.0",
+  "description": "Anti-detection browser automation (Camoufox) for AI agents — MCP server + skills"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "camofox",
+  "version": "0.1.0",
+  "description": "Anti-detection browser automation (Camoufox) for AI agents — MCP server + skills",
+  "author": {
+    "name": "epicsagas",
+    "url": "https://github.com/epicsagas"
+  },
+  "homepage": "https://github.com/epicsagas/camofox-browser",
+  "repository": "https://github.com/epicsagas/camofox-browser",
+  "license": "MIT",
+  "keywords": ["browser", "anti-detection", "camoufox", "mcp", "scraping", "ai-agent"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Camofox Browser",
+    "shortDescription": "Anti-detection browser automation (Camoufox) for AI agents",
+    "longDescription": "Browse, search, scrape, and interact with bot-protected sites (Google, Cloudflare, LinkedIn, Reddit) via Camoufox — a Firefox fork that spoils fingerprints at the C++ level. Ships an MCP server exposing 11 tools (create_tab, snapshot, click, type, navigate, scroll, screenshot, evaluate, close_tab, list_tabs, import_cookies) plus a skill that documents the snapshot-first workflow.",
+    "developerName": "epicsagas",
+    "category": "Development & Workflow",
+    "capabilities": ["Bash", "Read", "Write", "Edit"],
+    "websiteURL": "https://github.com/epicsagas/camofox-browser"
+  }
+}

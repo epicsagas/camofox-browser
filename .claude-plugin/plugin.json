@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "camofox",
+  "version": "0.1.0",
+  "description": "Anti-detection browser automation (Camoufox) for AI agents — MCP server + skills",
+  "author": { "name": "epicsagas", "url": "https://github.com/epicsagas" },
+  "homepage": "https://github.com/epicsagas/camofox-browser",
+  "repository": "https://github.com/epicsagas/camofox-browser",
+  "license": "MIT",
+  "keywords": ["browser", "anti-detection", "camoufox", "mcp", "scraping", "ai-agent"],
+  "skills": "./skills/"
+}
